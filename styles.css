@@ -57,6 +57,7 @@ background: #b06767;
 .copy{
   background: #1f030396;
   padding:15px;
+  border-radius: 20px;
 }
 .quality{
   padding-bottom: 30px;
@@ -69,7 +70,7 @@ background: #b06767;
 }
 
 .foot{
-  padding-top: 110px;
+  padding-top: 100px;
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 25px;
@@ -82,14 +83,14 @@ border-radius: 20px;
 }
 
 
-.fixed-logo {
+.whatsapp {
   position: fixed;    
   bottom: 20px;     
   right: 20px;        
   z-index: 1000;     
 }
 
-.fixed-logo img {
+.whatsapp img {
   width: 60px;        
   height: 60px;
   border-radius: 50%; 
