@@ -51,7 +51,8 @@ li{
 }
 
 footer{
-background: #b06767;
+background: #222;
+color: white;
 }
 
 .copy{
@@ -123,7 +124,7 @@ border-radius: 20px;
 }
 
 .card-img-top {
-  height: 300px; 
+  height: 200px; 
   object-fit: cover; 
 }
 
